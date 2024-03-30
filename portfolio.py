@@ -82,7 +82,7 @@ HARD SKILLS:-
              """
         )
         
-        st.write("[Resume >](https://drive.google.com/file/d/1k5CJjfUb687jeGeB1mqzkndCIyGSIVM5/view?usp=drivesdk)")
+        st.write("[Resume >](https://drive.google.com/file/d/1WGA2d_cp6aVVWuZZxBUmbOtfwmZjtCCQ/view?pli=1)")
     with right_column:
         st_lottie(lottie_coding, height=300, key="coding")
 
